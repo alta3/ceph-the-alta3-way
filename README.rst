@@ -1,8 +1,5 @@
-ceph-ansible
+ceph-the-alta3-way
 ============
-Ansible playbooks for Ceph, the distributed filesystem.
 
-Please refer to our hosted documentation here: http://docs.ceph.com/ceph-ansible/master/
-
-You can view documentation for our ``stable-*`` branches by substituting ``master`` in the link
-above for the name of the branch. For example: http://docs.ceph.com/ceph-ansible/stable-3.0/ 
+This playbook will "just work" in your student environment.  
+Let's get ceph up and running so we can learn how it works after it has been properly config'd
