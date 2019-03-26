@@ -33,10 +33,10 @@ dummy:
 # All scenario(except 3rd) inherit from the following device declaration
 # Note: This scenario uses the ceph-disk tool to provision OSDs
 
-#devices:
-#  - /dev/sdb
-#  - /dev/sdc
-#  - /dev/sdd
+devices:
+  - /dev/vdb
+  - /dev/vdc
+  - /dev/vdd
 #  - /dev/sde
 
 #devices: []
