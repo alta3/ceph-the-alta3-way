@@ -44,7 +44,7 @@ fetch_directory: ~/fetch/
 # An easier way to handle this is to use the environment variable CEPH_ARGS
 # So run: "export CEPH_ARGS="--cluster foo"
 # With that you will be able to run "ceph health" normally
-cluster: ceph
+cluster: backup
 
 # Inventory host group variables
 mon_group_name: mons
